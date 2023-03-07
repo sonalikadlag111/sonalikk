@@ -1,0 +1,34 @@
+body{
+background-color:skyblue
+}
+
+.panel-default {
+    margin-top: 30px;
+    border-color: #ddd;
+}
+.panel-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.panel-body img {
+    width: 100%;
+    height: auto;
+}
+.panel-body hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.panel-body ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.panel-body ul li:before {
+    content: "\2022";
+    color: #0072c6;
+
+    }
+    .tab{
+      border: 1px solid black;
+    }
+
